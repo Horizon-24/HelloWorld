@@ -1,3 +1,4 @@
 #pragma once
 
-int Sum(int, int);
+void Test();
+void Test2();
