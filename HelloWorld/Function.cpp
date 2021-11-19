@@ -2,6 +2,7 @@
 
 void Test()
 {
+	int a = 5;
 	return;
 }
 
